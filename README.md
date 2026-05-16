@@ -36,11 +36,9 @@ El proyecto está diseñado para funcionar en múltiples plataformas, incluyendo
 # Compatibilidad
 
 ExInventory puede ejecutarse en:
-(Probado)
-- Windows
-(En fase de prueba)
-- Linux
-- macOS
+- Windows (Probado)
+- Linux (En fase de prueba)
+- macOS (En fase de prueba)
 
 ---
 
