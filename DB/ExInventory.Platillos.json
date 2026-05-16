@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "6937b58357be1b33ec4430df"
+  },
+  "nombrePlato": "Fajitas de camarones",
+  "descripcion": "Camarones acompañados de pimientos, cebolla morada y un toque de limón",
+  "costoProduccion": 5000,
+  "precioVenta": 18000,
+  "tamanoPorcion": "1 Porcion",
+  "tiempoPreparacion": "20 minutos",
+  "ubicacionMenu": "Platillos fuertes",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Plato Fuerte",
+  "notasInternas": "Picar finamente los ajos.",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "createdAt": {
+    "$date": "2025-12-09T05:37:07.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T05:37:17.212Z"
+  },
+  "__v": 0,
+  "imagen": "ab0cfa34-389b-4883-aee9-a409ce25c61f.jpg"
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e781019518"
+  },
+  "nombrePlato": "Pollo a la plancha",
+  "descripcion": "Filete de pollo marinado con especias",
+  "costoProduccion": 6000,
+  "precioVenta": 16000,
+  "tamanoPorcion": "1 Porción",
+  "tiempoPreparacion": "15 minutos",
+  "ubicacionMenu": "Platos fuertes",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Pollo",
+  "notasInternas": "Agregar toque de orégano.",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "imagen": "d34fedf2-a391-43d5-9404-a97a38a11332.jpg",
+  "updatedAt": {
+    "$date": "2025-12-09T06:23:20.052Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e781019519"
+  },
+  "nombrePlato": "Hamburguesa clásica",
+  "descripcion": "Carne 120g, queso, lechuga y tomate",
+  "costoProduccion": 7000,
+  "precioVenta": 14000,
+  "tamanoPorcion": "1 Unidad",
+  "tiempoPreparacion": "10 minutos",
+  "ubicacionMenu": "Rápidas",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Comida rápida",
+  "notasInternas": "Revisar punto de cocción.",
+  "imagen": "f4ebf7a1-2957-43aa-8c2d-4c03c844f48a.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:23:28.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e78101951a"
+  },
+  "nombrePlato": "Perro caliente",
+  "descripcion": "Salchicha americana con salsas",
+  "costoProduccion": 3000,
+  "precioVenta": 9000,
+  "tamanoPorcion": "1 Unidad",
+  "tiempoPreparacion": "7 minutos",
+  "ubicacionMenu": "Rápidas",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Comida rápida",
+  "notasInternas": "No olvidar cebolla caramelizada.",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "imagen": "597ea205-5502-461b-95c5-9d172789eac1.jpeg",
+  "updatedAt": {
+    "$date": "2025-12-09T06:23:36.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e78101951b"
+  },
+  "nombrePlato": "Arepa rellena",
+  "descripcion": "Pollo desmechado con queso doble crema",
+  "costoProduccion": 4000,
+  "precioVenta": 10000,
+  "tamanoPorcion": "1 Unidad",
+  "tiempoPreparacion": "8 minutos",
+  "ubicacionMenu": "Típicos",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Arepas",
+  "notasInternas": "Verificar queso fresco.",
+  "imagen": "801ec1c6-bf15-4aa2-9715-d24bd93b6643.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:23:44.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e78101951c"
+  },
+  "nombrePlato": "Ceviche de camarón",
+  "descripcion": "Camarón cocido, limón y cebolla morada",
+  "costoProduccion": 8000,
+  "precioVenta": 20000,
+  "tamanoPorcion": "1 Porción",
+  "tiempoPreparacion": "12 minutos",
+  "ubicacionMenu": "Fríos",
+  "disponibilidad": "Disponible",
+  "etiquetas": "Mariscos",
+  "notasInternas": "Controlar frescura.",
+  "imagen": "148af7e1-47c9-4dd5-addf-de18ada8e031.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:27:07.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e78101951d"
+  },
+  "nombrePlato": "Ensalada fresca",
+  "descripcion": "Lechuga, tomate, pepino, aderezo",
+  "costoProduccion": 3000,
+  "precioVenta": 9000,
+  "tamanoPorcion": "1 Porción",
+  "tiempoPreparacion": "5 minutos",
+  "ubicacionMenu": "Ensaladas",
+  "disponibilidad": "Disponible",
+  "etiquetas": "Saludable",
+  "notasInternas": "Picar verduras al momento.",
+  "imagen": "a5dd1d21-1ef1-448a-a81c-8ff6c9a0ed49.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:24:14.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e78101951e"
+  },
+  "nombrePlato": "Salchipapa",
+  "descripcion": "Papas fritas y salchichas con salsa ",
+  "costoProduccion": 3500,
+  "precioVenta": 10000,
+  "tamanoPorcion": "1 Plato",
+  "tiempoPreparacion": "25 minutos",
+  "ubicacionMenu": "Sopas",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Sopa",
+  "notasInternas": "Agregar salsa",
+  "imagen": "9c720668-f70f-4ed8-bdb9-945f26a9de06.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:26:37.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e78101951f"
+  },
+  "nombrePlato": "Arroz con pollo",
+  "descripcion": "Pollo desmechado con verduras",
+  "costoProduccion": 5000,
+  "precioVenta": 12000,
+  "tamanoPorcion": "1 Porción",
+  "tiempoPreparacion": "18 minutos",
+  "ubicacionMenu": "Típicos",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Típico",
+  "notasInternas": "Revisar sazón.",
+  "imagen": "6c7f0b89-194d-48b7-8d27-42a73e9a661d.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:24:39.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b838d3b565e781019520"
+  },
+  "nombrePlato": "Bandeja Paisa",
+  "descripcion": "Frijol, patacon, papas y ensalada",
+  "costoProduccion": 9000,
+  "precioVenta": 20000,
+  "tamanoPorcion": "1 Plato",
+  "tiempoPreparacion": "20 minutos",
+  "ubicacionMenu": "Platos fuertes",
+  "disponibilidad": "Inmediata",
+  "etiquetas": "Carne",
+  "notasInternas": "Preguntar término.",
+  "imagen": "941462b8-2952-4ebc-a41f-805748674b1f.jpeg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:25:46.331Z"
+  }
+}]

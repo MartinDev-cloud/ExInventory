@@ -1,0 +1,31 @@
+# Entorno virtual
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
+
+# Credenciales Google OAuth
+credentials.json
+token.json
+
+# Archivos temporales
+*.log
+
+# VSCode
+.vscode/
+
+# PDFs generados
+ExInventory-ESC/backend/docs/
+
+# Imagenes generadas por usuarios
+ExInventory-ESC/backend/assets/
+
+# Base de datos local
+*.db
+
+ExInventory-ESC/backend/credentials.json
+ExInventory-ESC/backend/token.json

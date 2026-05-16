@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019523"
+  },
+  "numeroHabitacion": "A1",
+  "tipoHabitacion": "Cama doble",
+  "incluye": "Vistas a la ciudad, estacionamiento, baño privado",
+  "costoMantenimiento": 30000,
+  "precioHabitacion": 80000,
+  "costoExtensionHora": 20000,
+  "estado": "Disponible",
+  "imagen": "2fc373ba-c11f-4f9e-8ddc-b8ef627873a1.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T05:49:59.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019524"
+  },
+  "numeroHabitacion": "A2",
+  "tipoHabitacion": "Cama sencilla",
+  "incluye": "Wifi, TV, baño privado",
+  "costoMantenimiento": 25000,
+  "precioHabitacion": 60000,
+  "costoExtensionHora": 15000,
+  "estado": "Disponible",
+  "imagen": "2aed61dc-76c2-4b9d-9323-b30085e531dd.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T05:56:35.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019525"
+  },
+  "numeroHabitacion": "B1",
+  "tipoHabitacion": "Suite ejecutiva",
+  "incluye": "Jacuzzi, minibar, aire acondicionado",
+  "costoMantenimiento": 70000,
+  "precioHabitacion": 200000,
+  "costoExtensionHora": 40000,
+  "estado": "Ocupada",
+  "imagen": "3ec803bc-ea02-4568-998d-bbdbb943719f.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:00:13.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019526"
+  },
+  "numeroHabitacion": "B2",
+  "tipoHabitacion": "Suite junior",
+  "incluye": "Sofá cama, minibar, TV 55''",
+  "costoMantenimiento": 55000,
+  "precioHabitacion": 150000,
+  "costoExtensionHora": 35000,
+  "estado": "Disponible",
+  "imagen": "b7bcc286-51f1-4b3c-b20b-86f57652a46a.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:01:02.483Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019527"
+  },
+  "numeroHabitacion": "C1",
+  "tipoHabitacion": "Cama doble + balcón",
+  "incluye": "Balcón, baño privado, wifi",
+  "costoMantenimiento": 40000,
+  "precioHabitacion": 90000,
+  "costoExtensionHora": 25000,
+  "estado": "Ocupada",
+  "imagen": "3fa3acdc-ed1c-4aaa-bd48-491db00e9f5d.webp",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:02:02.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019528"
+  },
+  "numeroHabitacion": "C2",
+  "tipoHabitacion": "Cama sencilla económica",
+  "incluye": "Wifi, televisor básico",
+  "costoMantenimiento": 18000,
+  "precioHabitacion": 45000,
+  "costoExtensionHora": 10000,
+  "estado": "Disponible",
+  "imagen": "b63cd3f1-d81e-4225-8c30-14f0db9222c1.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:04:29.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e781019529"
+  },
+  "numeroHabitacion": "D1",
+  "tipoHabitacion": "Habitación familiar",
+  "incluye": "2 camas dobles, aire, wifi",
+  "costoMantenimiento": 65000,
+  "precioHabitacion": 180000,
+  "costoExtensionHora": 35000,
+  "estado": "Disponible",
+  "imagen": "cbefcfe3-5f84-4882-a219-2d193fa1daea.webp",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T05:58:34.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e78101952a"
+  },
+  "numeroHabitacion": "D2",
+  "tipoHabitacion": "Habitación premium",
+  "incluye": "Vista panorámica, cama king",
+  "costoMantenimiento": 60000,
+  "precioHabitacion": 160000,
+  "costoExtensionHora": 30000,
+  "estado": "Disponible",
+  "imagen": "5e5d7922-1955-474e-8804-9c43d6131239.webp",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:06:08.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e78101952b"
+  },
+  "numeroHabitacion": "E1",
+  "tipoHabitacion": "Cama doble clásica",
+  "incluye": "TV, wifi, baño privado",
+  "costoMantenimiento": 30000,
+  "precioHabitacion": 78000,
+  "costoExtensionHora": 20000,
+  "estado": "Ocupada",
+  "imagen": "219af99d-41cc-4e05-9596-0402b7af789a.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:06:55.316Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937b87ad3b565e78101952c"
+  },
+  "numeroHabitacion": "E2",
+  "tipoHabitacion": "Habitación económica",
+  "incluye": "Wifi y ventilador",
+  "costoMantenimiento": 15000,
+  "precioHabitacion": 40000,
+  "costoExtensionHora": 8000,
+  "estado": "Disponible",
+  "imagen": "e58517b2-33bb-4af2-bc1c-7e882ba293f8.jpg",
+  "emprendedor": {
+    "$oid": "6936fbe7a030057857f5342a"
+  },
+  "updatedAt": {
+    "$date": "2025-12-09T06:09:56.661Z"
+  }
+}]
