@@ -147,8 +147,8 @@ pip freeze > requirements.txt
 
 ## 5. Buenas prácticas
 
-* No modifiques archivos dentro de `.venv`; recrea el entorno si cambias de máquina o de directorio.
+* No modifiques archivos dentro de `.venv`; vuelve a crear el entorno si cambias de máquina o de directorio.
 * Mantén `requirements.txt` actualizado con `pip freeze`.
-* Siempre ejecutar los scripts de creación de `.venv` antes de correr la aplicación en un nuevo sistema.
+* Siempre ejecuta los scripts de creación de `.venv` antes de correr la aplicación en un nuevo sistema (o no ejecutara correctamente).
 
 ---
